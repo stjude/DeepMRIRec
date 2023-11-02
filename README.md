@@ -9,5 +9,5 @@ DeepMRIRec is a deep learning based pipeline for RT-coil specific MRI reconstruc
 2. Nvidia Driver 450.80.02
 3. CUDA Version: 11.0
 4. Python 3.6+
-5. Tensorflow, keras, 
-7. LFS git
+5. Tensorflow, keras, imgaug, scipy
+6. LFS git
