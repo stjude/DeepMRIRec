@@ -14,4 +14,5 @@ DeepMRIRec is a deep learning based pipeline for RT-coil specific MRI reconstruc
 
 
 ## Training and Evaluation
-Follow the notebook located in "scripts" folder
+
+If you want to train our network on your data please follow the notebook located in "scripts" folder. We have also shared our network weights (see "network_weights" folder) in case if you want to use them for transfer learning. 
