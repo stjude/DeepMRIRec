@@ -4,7 +4,6 @@ DeepMRIRec is a deep learning based pipeline for RT-coil specific MRI reconstruc
 
 ![MRI Reconstruction](misc/recout.jpg?raw=true "MRI Reconstruction")
 
-
 ## Hardware and software requirements for model inference and training
 1. Supported GPU: NVIDIA DGX 
 2. Nvidia Driver 450.80.02
