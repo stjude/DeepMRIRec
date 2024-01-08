@@ -28,12 +28,14 @@ Q3: 3 virtual coils
 Q4: 4 virtual coils
 
 ## Citation:
+```
 @article{alam2023deep,
   title={Deep-learning-based acceleration of MRI for radiotherapy planning of pediatric patients with brain tumors},
   author={Alam, Shahinur and Uh, Jinsoo and Dresner, Alexander and Hua, Chia-ho and Khairy, Khaled},
   journal={arXiv preprint arXiv:2311.13485},
   year={2023}
 }
+```
 
 ## Contacts
 Please feel free to contact us (salam@stjude.org,kkhairy@stjude.org) if you have questions or concerns
